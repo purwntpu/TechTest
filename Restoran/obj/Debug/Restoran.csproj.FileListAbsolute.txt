@@ -1,0 +1,11 @@
+D:\PURWANTO\Program\TechTest\Restoran\Restoran\bin\Debug\Restoran.exe.config
+D:\PURWANTO\Program\TechTest\Restoran\Restoran\obj\Debug\Restoran.csprojResolveAssemblyReference.cache
+D:\PURWANTO\Program\TechTest\Restoran\Restoran\obj\Debug\Restoran.frmDaftarMenu.resources
+D:\PURWANTO\Program\TechTest\Restoran\Restoran\obj\Debug\Restoran.frmLogin.resources
+D:\PURWANTO\Program\TechTest\Restoran\Restoran\obj\Debug\Restoran.frmMenu.resources
+D:\PURWANTO\Program\TechTest\Restoran\Restoran\obj\Debug\Restoran.Properties.Resources.resources
+D:\PURWANTO\Program\TechTest\Restoran\Restoran\obj\Debug\Restoran.csproj.GenerateResource.Cache
+D:\PURWANTO\Program\TechTest\Restoran\Restoran\bin\Debug\Restoran.exe
+D:\PURWANTO\Program\TechTest\Restoran\Restoran\bin\Debug\Restoran.pdb
+D:\PURWANTO\Program\TechTest\Restoran\Restoran\obj\Debug\Restoran.exe
+D:\PURWANTO\Program\TechTest\Restoran\Restoran\obj\Debug\Restoran.pdb
